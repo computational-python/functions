@@ -1,1 +1,3 @@
-:%s/\#doctest.*//:wq
+:%s/\#doctest.*//
+:%s/<BLANKLINE>//
+:wq
