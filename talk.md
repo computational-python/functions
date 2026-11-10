@@ -195,7 +195,6 @@ print(y) # NameError
 
 ---
 
-~~~
 
 ## Modules
 
